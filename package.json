@@ -14,12 +14,13 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@prisma/client": "^6.15.0",
+    "@prisma/client": "^6.16.2",
     "dotenv": "^17.2.1",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.10",
-    "prisma": "^6.15.0"
+    "prisma": "^6.16.2"
   }
 }
